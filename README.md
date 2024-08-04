@@ -34,6 +34,6 @@ To delete a task click on the 'delete' button. The task should be deleted and yo
 ## To run the app
 Clone the repository by running the following command:
 ```bash
-git clone https://github.com/AregawiF/A2SV-Web-Projects.git
+git clone https://github.com/AregawiF/A2SV-Web-TODO.git
 
 and open the index.html file
