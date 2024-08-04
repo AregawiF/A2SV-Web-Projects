@@ -17,7 +17,7 @@ To add a task just click on the input field and type in the task.
 
 After that just click on 'add task' button. The task should be added and you should see the following page.
 ![Todo List App Screenshot](./screenshots/task_added.png)
-![Todo List App Screenshot](./screenshots/list_of_tasks.png.png)
+![Todo List App Screenshot](./screenshots/list_of_tasks.png)
 
 ## Editing a task
 To edit a task click on the 'edit' button.
